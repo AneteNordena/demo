@@ -9,7 +9,8 @@ Below you can find a video from our webinar where we exchanged info about some w
 alt="IMAGE ALT TEXT HERE" width="640" height="360" border="10" /></a>
 
 
-# BASH!
+# BASH! 
+
 ### BASH: Why BASH? ###
 
 <a href="https://youtu.be/jmh6YsjxYY8
