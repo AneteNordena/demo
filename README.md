@@ -13,12 +13,12 @@ alt="IMAGE ALT TEXT HERE" width="640" height="360" border="10" /></a>
 ### BASH: Why BASH? ###
 
 <a href="https://youtu.be/jmh6YsjxYY8
-" target="_blank"><img src="Images/Platforms.png" 
+" target="_blank"><img src="Images/Bash_1.png" 
 alt="IMAGE ALT TEXT HERE" width="640" height="360" border="10" /></a>
 
 
 ### BASH: Files and directories ###
 
 <a href="https://youtu.be/uVisZRKxjqg
-" target="_blank"><img src="Images/Platforms.png" 
+" target="_blank"><img src="Images/Bash_2.png" 
 alt="IMAGE ALT TEXT HERE" width="640" height="360" border="10" /></a>
