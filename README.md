@@ -23,3 +23,8 @@ alt="IMAGE ALT TEXT HERE" width="640" height="360" border="10" /></a>
 <a href="https://youtu.be/uVisZRKxjqg
 " target="_blank"><img src="Images/Bash_2.png" 
 alt="IMAGE ALT TEXT HERE" width="640" height="360" border="10" /></a>
+
+
+### E-language course according to ADDIE Model 
+
+https://docs.google.com/presentation/d/17vWXMJ5Y5q-0soyP6jFD0W8sAbE0RR7bBKlv8Ur8UuI/edit?usp=sharing
